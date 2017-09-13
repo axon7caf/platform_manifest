@@ -1,4 +1,4 @@
-LineageOS
+LineageOS CAF
 ===========
 
 Submitting Patches
@@ -33,7 +33,7 @@ familiar with [Git and Repo](https://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the LineageOS trees, use a command like this:
 
-    repo init -u git://github.com/LineageOS/android.git -b lineage-15.0
+    repo init -u git://github.com/axon7caf/platform_manifest.git -b lineage-15.0
 
 Then to sync up:
 
